@@ -81,7 +81,6 @@ p {
    animation-duration: 5s;
    animation-timing-function: ease-in-out;
    animation-delay: 4s;
-
 }
 @keyframes slide-left {
 0% {margin-right: 0px;}
